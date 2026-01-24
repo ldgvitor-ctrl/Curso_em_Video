@@ -1,22 +1,20 @@
-# 🐍 Curso de Python - Curso em Vídeo
+# Curso de Python - Curso em Vídeo
 
-Este repositório contém todos os exercícios e desafios que desenvolvi durante o curso de Python do **Curso em Vídeo**, ministrado pelo professor Gustavo Guanabara.
+Repositório criado para centralizar meus exercícios e desafios do curso de Python do Gustavo Guanabara.
 
-## 📌 Sobre o Projeto
-O objetivo deste repositório é documentar minha evolução na lógica de programação e o domínio da sintaxe do Python, desde os fundamentos até estruturas mais complexas.
+## O que tem aqui:
+* Fundamentos da linguagem (Tipos, Operadores)
+* Exercícios de lógica de programação
+* Scripts de automação simples
 
-## 🗂️ Organização dos Módulos
+## Status dos Módulos:
+- [x] Mundo 1: Fundamentos (35 exercícios)
+- [ ] Mundo 2: Estruturas de controle (Em andamento)
+- [ ] Mundo 3: Estruturas compostas
 
-| Módulo | Status | Descrição |
-| :--- | :--- | :--- |
-| **Mundo 1** | ✅ Concluído | Fundamentos, tipos de dados e operadores. |
-| **Mundo 2** | ⏳ Em breve | Estruturas de controle (if, for, while). |
-| **Mundo 3** | 📅 Planejado | Estruturas compostas e funções. |
-
-## 🛠️ Tecnologias Utilizadas
-* **Python 3**
-* **Git & GitHub** (Versionamento)
-* **VS Code** (IDE)
-
+## Ferramentas utilizadas:
+* Python 3.x
+* VS Code
+* Git
 ---
-✨ *Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/vitor-de-souza-lima-773131325/)*
+ *Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/vitor-de-souza-lima-773131325/)*
