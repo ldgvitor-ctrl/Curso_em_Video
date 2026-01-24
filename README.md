@@ -19,4 +19,4 @@ O objetivo deste repositório é documentar minha evolução na lógica de progr
 * **VS Code** (IDE)
 
 ---
-✨ *Conecte-se comigo no [LinkedIn]((https://www.linkedin.com/in/vitor-de-souza-lima-773131325/))*
+✨ *Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/vitor-de-souza-lima-773131325/)*
