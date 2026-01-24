@@ -1,20 +1,17 @@
 # Curso de Python - Curso em Vídeo
 
-Repositório criado para centralizar meus exercícios e desafios do curso de Python do Gustavo Guanabara.
+Este repositório contém a resolução dos exercícios e desafios práticos do curso de Python 3 (Mundo 1, 2 e 3) do canal Curso em Vídeo.
 
-## O que tem aqui:
-* Fundamentos da linguagem (Tipos, Operadores)
-* Exercícios de lógica de programação
-* Scripts de automação simples
+## 🚀 Progresso dos Estudos
+- [x] **Mundo 1**: Fundamentos (Concluído) - Exercícios 01 ao 35
+- [ ] **Mundo 2**: Estruturas de Controle (Em andamento)
+- [ ] **Mundo 3**: Estruturas Compostas (Pendente)
 
-## Status dos Módulos:
-- [x] Mundo 1: Fundamentos (35 exercícios)
-- [ ] Mundo 2: Estruturas de controle (Em andamento)
-- [ ] Mundo 3: Estruturas compostas
+## 💻 Tecnologias
+- Linguagem: Python 3.x
+- Ambiente: VS Code
+- SO: Windows / Linux
 
-## Ferramentas utilizadas:
-* Python 3.x
-* VS Code
-* Git
----
+## 📂 Como navegar
+Os arquivos estão organizados por pastas correspondentes a cada módulo do curso. Cada script `.py` contém a solução de um desafio específico proposto nas aulas.
  *Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/vitor-de-souza-lima-773131325/)*
