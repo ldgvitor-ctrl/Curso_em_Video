@@ -4,8 +4,8 @@ Este repositório contém a resolução dos exercícios e desafios práticos do 
 
 ## 🚀 Progresso dos Estudos
 - [x] **Mundo 1**: Fundamentos (Concluído) - Exercícios 01 ao 35
-- [x] **Mundo 2**: Estruturas de Controle (Concluído)
-- [x] **Mundo 3**: Estruturas Composta (Concluído)
+- [x] **Mundo 2**: Estruturas de Controle (Concluído) 36 ao 71
+- [x] **Mundo 3**: Estruturas Composta (Concluído) 72 ao 114
 
 ## 💻 Tecnologias
 - Linguagem: Python 3.x
